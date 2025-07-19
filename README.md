@@ -2,7 +2,7 @@
 <h3 align="center">Open Source Developer | Linux Enthusiast | CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=I+write+code+for+fun+and+learning.;Linux+nerd+with+a+terminal+habit.;Always+building+something+small+or+breaking+something+big."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=750&lines=I+write+code+for+fun+and+learning.;Linux+nerd+with+a+terminal+habit.;Always+building+something+small+or+breaking+something+big."/>
 </p>
 
 ---
