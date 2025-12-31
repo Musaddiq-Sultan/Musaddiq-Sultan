@@ -11,7 +11,7 @@
 
 <table>
 <tr><td><strong>Name</strong></td><td>Musaddiq Sultan</td></tr>
-<tr><td><strong>Age</strong></td><td>21</td></tr>
+<tr><td><strong>Age</strong></td><td>22</td></tr>
 <tr><td><strong>Interests</strong></td><td>Gaming | Coding | Hanging Out | Studying</td></tr>
 <tr><td><strong>Languages I Enjoy</strong></td><td>Python | Java | Bash | C | C++ | SQL</td></tr>
 </table>
