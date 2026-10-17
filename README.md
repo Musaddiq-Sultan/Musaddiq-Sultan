@@ -75,7 +75,7 @@
 
 ## 📫 Contact
 
-- **Email:** musaddiqsultan8@gmail.com  
+- **Email:** itsmusaddiqsultan@gmail.com  
 - **Website:** [smileysite.netlify.app](https://smileysite.netlify.app)  
 - **GitHub:** [github.com/Musaddiq-Sultan](https://github.com/Musaddiq-Sultan)
 
